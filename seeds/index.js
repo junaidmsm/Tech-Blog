@@ -3,16 +3,16 @@ const {User,Blog,Comment} = require("../models")
 
 const users = [
     {
-        username: "haley",
-        password: "haleypassword"
+        username: "Junaid",
+        password: "junaidpassword"
     },
     {
-        username: "toby",
-        password: "tobypassword"
+        username: "Ryan",
+        password: "ryanpassword"
     },
     {
-        username: "brenda",
-        password: "brendapassword"
+        username: "Sophie",
+        password: "sophiepassword"
     },
 
 ]
@@ -20,22 +20,22 @@ const users = [
 const blogs = [
     {
         title: "My first post",
-        content: "meow",
+        content: "great",
         userId: 1
     },
     {
         title: "My second post",
-        content: "woof",
+        content: "amazing",
         userId: 1
     },
     {
-        title: "Toby's first post",
-        content: "hi i'm Tobias",
+        title: "Junaid's first post",
+        content: "hi i'm here",
         userId: 2
     },
     {
-        title: "Brenda's first post",
-        content: "hi i'm brenda",
+        title: "Ryan's first post",
+        content: "hi i'm Ryan",
         userId: 3
     },
 ]
@@ -57,7 +57,7 @@ const comments = [
         userId: 1
     },
     {
-        body: "happy monday!",
+        body: "happy days!",
         blogId: 2,
         userId: 3
     },
