@@ -1,6 +1,6 @@
 # Tech-Blog
 ## Description
-This challenge is to create an application called Note Taker that can be used to write and save notes.This application will use an Express.js back end and will save and retrieve note data from a JSON file. The task is to build the back end, connect the two, and then deploy the entire application to Heroku.
+This application is a blog site for developers! where tech fans can share their thoughts, opinions, articles and blog posts. Upon coming to the site, the homepage presents with existing blog posts and a navbar to help direct you around the site. If you try to navigate away from the homepage, you will be until to until you login and thus will be redirected to the login page. You will notice there is also an option to signup from the login page. If you signup for an account, you will be automatically logged in. Regardless of if you signup or log in, you will be redirected to your dashboard, which is your landing platform for your own posts. If you click on a post in your dashboard, you have the option to update or delete the post. If you click on a post that isn't yours from the homepage, you will be able to view comments and leave one too! Utilzing mySql, Sequelize, and sessions, your login info is stored for 30 minutes while you roam around the site.
 
 
 ![Badge](https://img.shields.io/badge/license-MITLicense-brightorange)(https://choosealicense.com/licenses/mit/)
@@ -15,19 +15,19 @@ You can access more badges and their purposes at [shields.io](https://shields.io
 ## Installation
 
  _Follow these steps to properly install this application:_
-  To install this app you will need to run 'npm i express' command to get the required dependencies.
+  To install this app you will need to run 'npm run start' command to get the required dependencies.
 
 ## Demo
 
 
   ## Screenshot
 
-[Screenshot](screenshot.png)
-<image src = "Screenshot.png">
+[Screenshot]()
+<image src = "">
 
 
 
-  [Walkthrough Video](https://www.loom.com/embed/39f2a5cda2e743ddbbc8524907e0cb07)
+  [Walkthrough Video]()
 
 
 ## Questions
@@ -48,6 +48,6 @@ _This application has the MIT License._
   
 ## Contribution
 
-Original code source: https://github.com/coding-boot-camp/miniature-eureka
+Code source: 
     
 
