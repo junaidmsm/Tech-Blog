@@ -10,7 +10,7 @@ body {
 }
 
 header, h1 {
-    background-color: #355C7D;
+    background-color: #71357d;
     padding: 10px;
     color: white !important;
 }
@@ -22,7 +22,7 @@ header a {
 }
 
 .card-title {
-    background-color: #355C7D;
+    background-color: #71357d;
     color: white;
     padding: 5px;
 }
@@ -33,7 +33,7 @@ header a {
 
 .card h5, .card p {
     color: black;
-    font-style: normal;
+    font-style: system-ui;
 }
 
 button {
