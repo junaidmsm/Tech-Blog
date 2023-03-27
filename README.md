@@ -8,6 +8,7 @@ You can access more badges and their purposes at [shields.io](https://shields.io
 ## Table of Contents
   * [Installation](#installation)
   * [Demo](#demo)  
+  * [Walkthrough videos](#Walkthroughvideos)
   * [Questions](#questions)
   * [License](#license)
   * [Contribution](#contribution)  
@@ -20,11 +21,10 @@ You can access more badges and their purposes at [shields.io](https://shields.io
 ## Demo
 
 
-  ## Screenshot
+  ## Walkthrough videos
 
-[Screenshot]()
-<image src = "">
 
+  [Walkthrough Video]()
 
 
   [Walkthrough Video]()
