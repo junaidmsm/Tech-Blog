@@ -16,7 +16,8 @@ You can access more badges and their purposes at [shields.io](https://shields.io
 ## Installation
 
  _Follow these steps to properly install this application:_
-  To install this app you will need to run 'npm run seed' and 'node server.js' command to see the action in the applicaton.
+
+   To install this app you will need to run 'npm run seed' and 'node server.js' command to see the applicaton's functionality.
 
 ## Demo
 
