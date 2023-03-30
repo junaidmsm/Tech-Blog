@@ -24,10 +24,13 @@ You can access more badges and their purposes at [shields.io](https://shields.io
   ## Walkthrough videos
 
 
-  [Walkthrough Video]()
+  [Walkthrough Video](https://loom.com/embed/94c628659d114993abac01b554676dfb)
 
 
-  [Walkthrough Video]()
+  [Walkthrough Video](https://www.loom.com/embed/d94b5405b7ca49b087ba384ab8f5299b)
+
+
+  [Walkthrough Video](https://www.loom.com/embed/abb07b04a45a401f9637424f693be3b9)
 
 
 ## Questions
