@@ -35,6 +35,8 @@ router.get("/:id", (req, res) => {
 
 // sign up api/users/
 router.post("/", (req, res) => {
+  console.log("signup");
+  console.log("body = ", req.body);
   // run hooks to hash and salt password; create user
     User.create(req.body, {individualHooks: true} )
       .then(newUser => {

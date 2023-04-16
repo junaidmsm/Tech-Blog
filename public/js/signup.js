@@ -18,5 +18,10 @@ document.querySelector("#signup").addEventListener("submit",event=>{
         } else {
             alert("please try again")
         }
+        
+    })
+    .catch((error)=> {
+        console.log (error);
+    
     })
 })
